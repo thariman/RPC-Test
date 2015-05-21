@@ -7,5 +7,11 @@ Based on http://www.hitchnyc.com/deploying-rackspace-private-cloud-v9-0-with-ans
 TODO
 
  * [ ] Optimize using local cache
+    * [x] apt-get
+    * [ ] git
+    * [ ] pip
+    * [ ] wget
  * [ ] Testing for both virtualbox and libvirt
+    * [ ] virtualbox
+    * [ ] libvirt
 
